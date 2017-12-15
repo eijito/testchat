@@ -2,8 +2,8 @@ spring:
   datasource:
     driver-class-name: com.mysql.jdbc.Driver
     username: root
-    password: Hejie_123
-    url: jdbc:mysql://39.108.110.21:3306/weixin?useUnicode=true&characterEncoding=UTF-8&useSSL=true&allowMultiQueries=true
+    password: 123
+    url: jdbc:mysql://localhost:3306/weixin?useUnicode=true&characterEncoding=UTF-8&useSSL=true&allowMultiQueries=true
     jap:
     show-sql: true
 server:
